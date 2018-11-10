@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <polygon fill="#000000" id="svg_3"/>
+  <polygon fill="#000000" id="svg_4" points="407.5,223.5 407.5,223.5 407.5,223.5 407.5,223.5 407.5,223.5 407.5,223.5 407.5,223.5 407.5,223.5 407.5,223.5 407.5,223.5 407.5,223.5 407.5,223.5 " stroke="#000000" stroke-width="0"/>
+  <polygon fill="#000000" id="svg_5" points="225.5,177.5 225.5,177.5 225.5,177.5 225.5,177.5 225.5,177.5 225.5,177.5 225.5,177.5 225.5,177.5 225.5,177.5 225.5,177.5 225.5,177.5 225.5,177.5 " stroke="#000000" stroke-width="0"/>
+  <polygon fill="#000000" id="svg_6"/>
+  <text fill="#0000ff" font-family="serif" font-size="24" id="svg_8" stroke="#ffd4aa" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(3.55874 0 0 2.34615 -890.84 -302.212)" x="343.706102" xml:space="preserve" y="225.467212">EC</text>
+  <polygon cx="229.5" cy="202.5" fill="#0000ff" id="svg_9" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="0" strokecolor="#ffd4aa"/>
+  <polygon cx="241.5" cy="174.5" fill="#0000ff" id="svg_10" orient="point" point="5" points="334.5,221.06834411621094 341.4197998046875,240.97572326660156 362.4911804199219,241.40512084960938 345.69647216796875,254.13795471191406 351.79949951171875,274.3107147216797 334.5,262.2726593017578 317.2005157470703,274.3107147216797 323.30352783203125,254.13795471191406 306.5088348388672,241.40512084960938 327.5802001953125,240.97572326660156 334.5,221.06834411621094 341.4197998046875,240.97572326660156 " r="29.431653" r2="11.772661" shape="star" stroke-width="0" strokeWidth="0" strokecolor="none"/>
+  <polygon cx="390.5" cy="163.5" fill="#0000ff" id="svg_11" orient="point" point="5" points="390.5,163.5 390.5,163.5 390.5,163.5 390.5,163.5 390.5,163.5 390.5,163.5 390.5,163.5 390.5,163.5 390.5,163.5 390.5,163.5 390.5,163.5 390.5,163.5 " r="0" r2="0" shape="star" stroke-width="0" strokeWidth="0" strokecolor="none"/>
+  <polygon cx="245.5" cy="178.5" fill="#0000ff" id="svg_15" orient="point" point="5" points="245.5,178.5 245.5,178.5 245.5,178.5 245.5,178.5 245.5,178.5 245.5,178.5 245.5,178.5 245.5,178.5 245.5,178.5 245.5,178.5 245.5,178.5 245.5,178.5 " r="0" r2="0" shape="star" stroke-width="0" strokeWidth="0" strokecolor="none"/>
+  <polygon cx="245.5" cy="178.5" fill="#0000ff" id="svg_16" orient="point" point="5" points="319.5,245 319.5,245 319.5,245 319.5,245 319.5,245 319.5,245 319.5,245 319.5,245 319.5,245 319.5,245 319.5,245 319.5,245 " r="0" r2="0" shape="star" stroke-width="0" strokeWidth="0" strokecolor="none"/>
+ </g>
+</svg>
